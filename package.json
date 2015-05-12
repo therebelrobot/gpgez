@@ -1,0 +1,37 @@
+{
+  "name": "gpgez",
+  "version": "0.0.1",
+  "description": "A wrapper for common GPG commands, until you get more comfortable with the lengthier versions",
+  "main": "lib/cli.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therebelrobot/gpgez.git"
+  },
+  "keywords": [
+    "gpg",
+    "pgp",
+    "encryption",
+    "cli",
+    "decryption",
+    "key",
+    "pair",
+    "asymetric",
+    "beginner",
+    "learn"
+  ],
+  "author": "Trent Oswald (@therebelrobot) <trentoswald@therebelrobot.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/therebelrobot/gpgez/issues"
+  },
+  "homepage": "https://github.com/therebelrobot/gpgez",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "commander": "^2.8.1",
+    "debug-log2": "^1.0.0",
+    "lodash": "^3.8.0"
+  }
+}
