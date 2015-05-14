@@ -1,7 +1,7 @@
 {
   "name": "gpgez",
   "version": "0.0.1",
-  "description": "A wrapper for common GPG commands, until you get more comfortable with the lengthier versions",
+  "description": "A wrapper for common GPG commands, cuz typing sux",
   "main": "lib/cli.js",
   "scripts": {
     "test": "mocha"
