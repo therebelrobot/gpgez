@@ -1,9 +1,8 @@
 # gpgez
-A wrapper for common GPG commands, until you get more comfortable with the lengthier versions
 
 ```
 gpgez 	v0.0.1
-	A wrapper for common GPG commands, until you get more comfortable with the lengthier versions
+	A wrapper for common GPG commands, cuz typing sux
 
 	License:  ISC
 	Author:   Trent Oswald (@therebelrobot) <trentoswald@therebelrobot.com>
@@ -27,7 +26,7 @@ Methods:
 	 list        list PGP keys, public and private
 	 fingerprint View fingerprint for key
 	 send        Send PGP key to keyserver
-	 get         Get PGP key to keyserver
+	 get         Get PGP key from keyserver
 	 sign        Sign either a public key or a file/message
 	 edit        Edit public key, set trust
 	 trust       Edit public key, set trust (alias of edit)
