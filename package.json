@@ -29,9 +29,11 @@
   },
   "homepage": "https://github.com/therebelrobot/gpgez",
   "dependencies": {
+    "cli-table": "^0.3.1",
     "colors": "^1.1.0",
     "commander": "^2.8.1",
     "debug-log2": "^1.0.0",
-    "lodash": "^3.8.0"
+    "lodash": "^3.8.0",
+    "prompt": "^0.2.14"
   }
 }
