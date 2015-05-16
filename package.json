@@ -33,7 +33,10 @@
     "colors": "^1.1.0",
     "commander": "^2.8.1",
     "debug-log2": "^1.0.0",
+    "htmlparser2": "^3.8.2",
     "lodash": "^3.8.0",
-    "prompt": "^0.2.14"
+    "mock-browser": "^0.90.33",
+    "prompt": "^0.2.14",
+    "unirest": "^0.4.0"
   }
 }
