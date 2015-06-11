@@ -33,6 +33,8 @@
     "colors": "^1.1.0",
     "commander": "^2.8.1",
     "debug-log2": "^1.0.0",
+    "gpg-email2id": "0.0.1",
+    "gpg-parsekeys": "0.0.1",
     "htmlparser2": "^3.8.2",
     "lodash": "^3.8.0",
     "mock-browser": "^0.90.33",
