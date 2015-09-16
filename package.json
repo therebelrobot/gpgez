@@ -1,6 +1,6 @@
 {
   "name": "gpgez",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "A wrapper for common GPG commands, cuz typing sux",
   "main": "lib/cli.js",
   "preferGlobal": "true",
