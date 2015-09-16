@@ -5,7 +5,7 @@ A wrapper for common GPG commands, cuz typing sux
 ## Installation
 
 ```
-npm install --global gpgez
+npm install gpgez -g
 ```
 
 ## Usage
