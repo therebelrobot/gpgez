@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "A wrapper for common GPG commands, cuz typing sux",
   "main": "lib/cli.js",
+  "preferGlobal": "true",
+  "bin": {
+    "gpgez" : "lib/cli.js"
+  },
   "scripts": {
     "test": "mocha"
   },
@@ -33,11 +37,11 @@
     "colors": "^1.1.0",
     "commander": "^2.8.1",
     "debug-log2": "^1.0.0",
-    "gpg-email2id": "0.0.1",
-    "gpg-parsekeys": "0.0.1",
+    "gpg-email2id": "^1.0.0",
+    "gpg-listkeys": "^1.0.0",
+    "gpg-parsekeys": "^1.1.0",
     "htmlparser2": "^3.8.2",
     "lodash": "^3.8.0",
-    "mock-browser": "^0.90.33",
     "prompt": "^0.2.14",
     "unirest": "^0.4.0"
   }
