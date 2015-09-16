@@ -67,7 +67,7 @@ gpgez  v1.0.0
 ### gen
 
 ```
-gpgez gen --help
+$ gpgez gen --help
 
 Usage:
 	gpgez gen
@@ -78,7 +78,7 @@ Usage:
 ### gen-revoke
 
 ```
-gpgez gen-revoke --help
+$ gpgez gen-revoke --help
 
 Usage:
 	gpgez gen-revoke <privatekey_email_keyID>
